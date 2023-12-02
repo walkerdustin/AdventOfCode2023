@@ -8,9 +8,5 @@ plotly
 seaborn
 nbformat
 python-dotenv
-thefuzz
 flake8
 termcolor
-folium
-geolocator
-

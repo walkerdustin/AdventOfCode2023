@@ -1,6 +1,7 @@
 {
     "editor.formatOnSave": true,
+    "python.languageServer": "Pylance",
     "[python]": {
-        "editor.defaultFormatter": "ms-python.black-formatter"
-      }
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    }
 }
