@@ -1,0 +1,16 @@
+black
+ipykernel
+numpy
+panda
+pyarrow
+matplotlib
+plotly
+seaborn
+nbformat
+python-dotenv
+thefuzz
+flake8
+termcolor
+folium
+geolocator
+
