@@ -12,3 +12,4 @@ flake8
 termcolor
 networkx
 scipy
+z3-solver
